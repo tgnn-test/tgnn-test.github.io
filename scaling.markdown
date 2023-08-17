@@ -103,7 +103,7 @@ permalink: /scaling/
 | *scale=64* | *scale=128* |  *scale=256* |
 
 ## <ins>3. Kronecker</ins>
-### Géant201
+### Géant001
 
 |![asd](plots/base_geant2001.png)|![asd](plots/kronecker_geant2001_2.png)|![asd](plots/kronecker_geant2001_4.png)|
 |:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
