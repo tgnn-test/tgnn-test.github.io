@@ -1,7 +1,7 @@
 var dictionaries = {
   "bigg": {
 	  "geant2001": 109,
-	  "bren": 1,
+	  "bren": 526,
 	  "btnorthamerica": 287,
 	  "gtsslovakia": 128,
   },
